@@ -1,0 +1,28 @@
+## SPT
+*.d.ts
+project/.pkg-cache/
+project/build/
+project/obj/
+project/dist/
+project/user/
+project/logs/
+project/SPT_Data/
+project/types/
+project/tests/__cache__/
+project/tests/__coverage__/
+project/src/__coverage__/
+
+## visual studio
+.vs
+.idea
+.vscode
+
+## nodejs
+package-lock.json
+node_modules
+
+## windows
+desktop.ini
+
+## OSX
+.DS_Store
